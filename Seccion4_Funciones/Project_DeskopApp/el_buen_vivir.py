@@ -73,5 +73,5 @@ if st.button("Calcular Total"):
     # Mostrar el total en la interfaz
     #st.success(f"${total}" icon="💰")
     st.markdown(f"<span style='font-size:2em; color:green;'>💰 ${total}</span>", unsafe_allow_html=True)
-    
-    st.footer("Gracias por su compra, vuelva pronto! 👋")
+
+    st.success("Gracias por su compra, vuelva pronto! 👋")
