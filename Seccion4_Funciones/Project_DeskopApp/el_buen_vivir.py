@@ -30,7 +30,7 @@ if "table_data" not in st.session_state:
                     )
     
 # Titulo de la pagina
-st.title("El Buen Vivir - SuperMarket")
+st.title("On D' toledo - SuperMarket")
 
 # crearemos contenedor para el formulario
 with st.form("formulario_producto"):
